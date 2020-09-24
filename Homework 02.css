@@ -1,1 +1,49 @@
-.border
+.border{
+color: red;
+}
+
+p1{
+    padding: 30 px;
+    color: black
+}
+ #aboutParagraph{
+background-color: white;
+border: tomato;
+max-height: fit-content;
+min-height: fit-content;
+max-width: fit-content;
+min-width: fit-content;
+}
+
+#IndexHeader{
+    text-align: center;
+}
+
+#GarianImage{
+    border: darkblue;
+    max-height: fit-content;
+    min-height: fit-content;
+}
+
+#ContactHeader{
+    text-align: center;
+}
+
+#PortfolioHeader{
+    text-align: center;
+}
+
+.MessageBox{
+    float: inline-end;
+}
+.row{
+    float: left;
+}
+
+#IndexBackground{
+    background-color: orange;
+}
+img.volunteerimg {
+    height: 500px;
+    width: 500px;
+}
