@@ -47,3 +47,14 @@ img.volunteerimg {
     height: 500px;
     width: 500px;
 }
+
+#PortfolioBackground{
+    background-color: orange;
+}
+
+#ContactBackground{
+    background-color: orange;
+}
+.form-row{
+    align-items: center;
+}
